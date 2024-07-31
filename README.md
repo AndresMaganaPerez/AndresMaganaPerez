@@ -41,4 +41,7 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AndresMaganaPerez&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+![Untitled_Artwork](https://github.com/user-attachments/assets/df825220-2fba-4441-94e6-0149cdbedd3c)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
