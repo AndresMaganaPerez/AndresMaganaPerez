@@ -2,6 +2,7 @@
 <h3 align="left">A passionate Computer Engineer from México</h3>
 
 [![](https://visitcount.itsvg.in/api?id=AndresMaganaPerez&icon=0&color=2)](https://visitcount.itsvg.in)
+<br>
 ---
 
 - 🔭 I’m currently working on [Rentech as Tech Lead](https://www.rentech.mx/)
