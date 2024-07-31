@@ -1,7 +1,7 @@
-![Fisherman_Of_The_Sun](https://github.com/user-attachments/assets/80cae32e-d3c4-4cdf-860a-eccc7e4ae6b6)
-
 <h1 align="left">Hi 👋, I'm Andrés Magaña</h1>
 <h3 align="left">A passionate Computer Engineer from México</h3>
+
+![Fisherman_Of_The_Sun](https://github.com/user-attachments/assets/80cae32e-d3c4-4cdf-860a-eccc7e4ae6b6)
 
 [![](https://visitcount.itsvg.in/api?id=AndresMaganaPerez&icon=0&color=2)](https://visitcount.itsvg.in)
 <br>
