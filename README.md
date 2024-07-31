@@ -1,3 +1,6 @@
+
+![I_Can_See_You](https://github.com/user-attachments/assets/069328b0-2f2e-416d-9fcf-46d28b0cf157)
+
 <h1 align="left">Hi 👋, I'm Andrés Magaña</h1>
 <h3 align="left">A passionate Computer Engineer from México</h3>
 
