@@ -1,4 +1,4 @@
-![I_Can_See_You](https://github.com/user-attachments/assets/2765ebca-9731-41e2-a63d-dc3fda2969ba)
+![Fisherman_Of_The_Sun](https://github.com/user-attachments/assets/6e2e2551-2762-4fad-a021-b8abba985328)
 
 <h1 align="left">Hi 👋, I'm Andrés Magaña</h1>
 <h3 align="left">A passionate Computer Engineer from México</h3>
