@@ -1,5 +1,4 @@
-
-![I_Can_See_You](https://github.com/user-attachments/assets/069328b0-2f2e-416d-9fcf-46d28b0cf157)
+![I_Can_See_You](https://github.com/user-attachments/assets/2765ebca-9731-41e2-a63d-dc3fda2969ba)
 
 <h1 align="left">Hi 👋, I'm Andrés Magaña</h1>
 <h3 align="left">A passionate Computer Engineer from México</h3>
