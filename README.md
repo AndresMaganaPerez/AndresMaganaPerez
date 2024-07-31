@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [Rentech as Tech Lead](https://www.rentech.mx/)
 
+- 🎓 Studied Computer Engineering at [Tecnológico de Monterrey](https://tec.mx/es), Qro; and made an academic exchange at [University of California, Berkeley](https://www.berkeley.edu/)
+
 - 🌱 I’m currently learning **about UX/UI, AWS, and AI.**
 
 - 👯 I’m looking to collaborate on **real-life impact projects.**
