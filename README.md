@@ -1,4 +1,4 @@
-![Fisherman_Of_The_Sun__1_-removebg-preview](https://github.com/user-attachments/assets/17f35f2b-e3e9-459f-b28f-a4c440926939)
+![Fisherman_Of_The_Sun](https://github.com/user-attachments/assets/80cae32e-d3c4-4cdf-860a-eccc7e4ae6b6)
 
 <h1 align="left">Hi 👋, I'm Andrés Magaña</h1>
 <h3 align="left">A passionate Computer Engineer from México</h3>
